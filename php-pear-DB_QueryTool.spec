@@ -12,7 +12,7 @@ License:	PHP 2.02
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
 # Source0-md5:	415a2b639e443ec5e0fe25560e84c4a3
-URL:		http://os.visionp.de/modules/project/%{_pearname}.php
+URL:		http://pear.php.net/package/DB_QueryTool/
 BuildRequires:	rpm-php-pearprov >= 4.0.2-98
 Requires:	php-pear
 BuildArch:	noarch
