@@ -10,6 +10,7 @@ Version:	0.9.2
 Release:	1
 License:	PHP 2.02
 Group:		Development/Languages/PHP
+# Source0-md5:	298348b69a39d0da91c3502db4a9ce9d
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
 URL:		http://os.visionp.de/modules/project/%{_pearname}.php
 BuildRequires:	rpm-php-pearprov >= 4.0.2-98
