@@ -53,6 +53,9 @@ AutoReq:	no
 %description tests
 Tests for PEAR::%{_pearname}.
 
+%description tests -l pl
+Testy dla PEAR::%{_pearname}.
+
 %prep
 %pear_package_setup
 
