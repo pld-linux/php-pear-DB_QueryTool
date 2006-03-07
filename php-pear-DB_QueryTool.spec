@@ -15,6 +15,7 @@ Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
 # Source0-md5:	00d9a26890e1e0a8f78d8b8ef151855e
 URL:		http://pear.php.net/package/DB_QueryTool/
+BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
 Requires:	php-pear
 Requires:	php-pear-DB
